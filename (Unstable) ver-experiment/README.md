@@ -1,2 +1,2 @@
 # Notice
-No longer used
+No longer used, it is now read-only
